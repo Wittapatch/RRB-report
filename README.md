@@ -188,6 +188,8 @@
 pip install google-generativeai speechrecognition python-dotenv pillow gtts deep-translator pygame PyAudio
 ```
 
+**If pip install PyAudio does not work then you can try this `pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`**
+
 *If you use MacOs you can write down*
 
 ```python
